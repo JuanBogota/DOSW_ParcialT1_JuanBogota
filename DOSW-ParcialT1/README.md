@@ -54,3 +54,8 @@ Los tipos de patrones son creacionales y de comportamiento.
 
 2. 
 ![DiagramaCaso2](/DOSW-ParcialT1/docs/uml/DiagramaCaso2.png)
+
+## 5. Especificando los 2 requerimientos funcionales seleccionados en el punto anterior.
+
+Punto 5 en requerimientos.
+
