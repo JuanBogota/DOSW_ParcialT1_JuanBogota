@@ -49,5 +49,8 @@ Los tipos de patrones son creacionales y de comportamiento.
     1. Debe permitir crear eventos. (Usa el patrón factory method)
     2. Debe permitir inscribir asistentes.
 
-1. ![DiagramaCaso1](/DOSW-ParcialT1/docs/uml/DiagramaCaso1.png)
-2. ![DiagramaCaso2](/DOSW-ParcialT1/docs/uml/DiagramaCaso2.png)
+1. 
+![DiagramaCaso1](/DOSW-ParcialT1/docs/uml/DiagramaCaso1.png)
+
+2. 
+![DiagramaCaso2](/DOSW-ParcialT1/docs/uml/DiagramaCaso2.png)
