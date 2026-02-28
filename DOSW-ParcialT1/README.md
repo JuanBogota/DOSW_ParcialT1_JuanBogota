@@ -28,3 +28,17 @@ Los tipos de patrones son creacionales y de comportamiento.
 2. Chain of Responsibility
 
     Escogí este patrón porque ayuda para mantener la responsabilidad de cada clase, además el sistema me parece como una cadena de secuencias, por ejemplo, primero se consumen los datos del usuario, después se crea el evento dependiendo del usuario, después se registra la inscripción y se verifica que aun tenga cupos, etc. Siento que es el que mejor se ajusta, tambien los estudiantes no deberian poder crear actividades.
+
+---
+## 3. Identificando 5 requerimientos del sistema y clasifíquelos en funcionales (3) y no funcionales (2). Garantiza que al menos un requerimiento funcional seleccionado utilice un patrón identificado:
+
+### Funcionales (Responde al qué debe hacer):
+
+    1. Debe permitir crear eventos. (Usa el patrón factory method)
+    2. Debe permitir inscribir asistentes.
+    3. Debe permitir notificar cambios a las personas inscritas en los eventos.
+
+### No funcionales (Responde al cómo lo debe hacer):
+
+    1. Validar que el correo de los profesores termine en @escuelaing.edu.co.
+    2. Validar cupo para inscribir asistentes.
