@@ -6,5 +6,5 @@ Juan Daniel Bogotá Fuentes
  ---
 
 ## 1. Diagrama de contexto:
-![DiagramaContexto](/docs/uml/DiagramaContexto.png)
+![DiagramaContexto](/DOSW-ParcialT1/docs/uml/DiagramaContexto.png)
 
