@@ -13,7 +13,7 @@ Juan Daniel Bogotá Fuentes
 
 *a. Nombre de los patrones*
 
-Factory Method y Chain of Responsibility
+Factory Method y Observator
 
 *b. Tipo de patrón (creacional, estructural o de comportamiento).*
 
@@ -25,9 +25,9 @@ Los tipos de patrones son creacionales y de comportamiento.
 
      Escogí este patrón porque ayuda para crear cada actividad de una forma correcta, en este caso solo tenemos 3 actividades, pero si la universidad desea aumentarlas no hay problema, así respetamos el principio O de SOLID y generamos un código manejable, además evitamos llenar el programa de news, es decir, no creamos instancias cada que se quiera crear una actividad, se puede hacer la reutilización de código mediente el poliformismo.
 
-2. Chain of Responsibility
+2. Observator
 
-    Escogí este patrón porque ayuda para mantener la responsabilidad de cada clase, además el sistema me parece como una cadena de secuencias, por ejemplo, primero se consumen los datos del usuario, después se crea el evento dependiendo del usuario, después se registra la inscripción y se verifica que aun tenga cupos, etc. Siento que es el que mejor se ajusta, tambien los estudiantes no deberian poder crear actividades.
+    Escogí este patrón porque ayuda para las notificaciones, así puede notificar a los usuarios cuando el evento sea confirmado, cancelado, se modifique la fecha u hora de inicio, o si ya se llenó. Además lo uso porque asi no importa que tipo de usuario sea, sea profesor, estudiante o administrativo o si más adelante exista otro tipo de usuario.
 
 ---
 ## 3. Identificando 5 requerimientos del sistema y clasifíquelos en funcionales (3) y no funcionales (2). Garantiza que al menos un requerimiento funcional seleccionado utilice un patrón identificado:
