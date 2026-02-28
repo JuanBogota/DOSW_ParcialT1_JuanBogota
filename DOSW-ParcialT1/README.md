@@ -6,7 +6,7 @@ Juan Daniel Bogotá Fuentes
  ---
 
 ## 1. Diagrama de contexto:
-![DiagramaContexto](/docs/uml/DiagramaContexto.png)
+![DiagramaContexto](/DOSW-ParcialT1/docs/uml/DiagramaContexto.png)
 
 ---
 ## 2. Identificando 2 patrones de diseño que puedan aplicarse al caso de estudio, especificando por cada uno:
