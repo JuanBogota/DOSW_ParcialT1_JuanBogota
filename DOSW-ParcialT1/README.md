@@ -77,3 +77,5 @@ Validar que la cuenta sea permitida para crear un evento:
 1. Validar que la cuenta pueda acceder al sistema y exista.
 2. Validar que la cuenta sea de un profesor o administrativo, verificando que cumpla con el correo estipulado, @escuelaing.edu.co.
 3. Permitir crear un evento que exista, verificando que se registre la información obligatoria.
+
+
