@@ -42,3 +42,12 @@ Los tipos de patrones son creacionales y de comportamiento.
 
     1. Validar que el correo de los profesores termine en @escuelaing.edu.co.
     2. Validar cupo para inscribir asistentes.
+
+---
+## 4. Del listado anterior, se seleccionan los 2 requerimientos funcionales más importantes del sistema y se desarrolla un diagrama de casos de uso con su respectiva historia de usuario. Garantiza que al menos un requerimiento funcional seleccionado utilice un patrón identificado.
+
+    1. Debe permitir crear eventos. (Usa el patrón factory method)
+    2. Debe permitir inscribir asistentes.
+
+1. ![DiagramaCaso1](/DOSW-ParcialT1/docs/uml/DiagramaCaso1.png)
+2. ![DiagramaCaso2](/DOSW-ParcialT1/docs/uml/DiagramaCaso2.png)
